@@ -7,3 +7,8 @@ Most common Cocoa design patterns:
 - Behavioral: Observer, and, Memento 
 
  has been implemented in this Music Album App
+
+### Version
+- XCode 7.3
+- iOS 9.3
+- Swift 2.2
