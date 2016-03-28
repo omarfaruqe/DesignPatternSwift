@@ -1,4 +1,5 @@
-# DesignPatternSwift
+# Design Pattern in Swift
+
 Most common Cocoa design patterns: 
 
 - Creational: Singleton
